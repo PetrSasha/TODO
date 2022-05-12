@@ -1,0 +1,17 @@
+/* nav */
+
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.navbar-nav a:hover{
+  color: hsl(54, 100%, 51%) !important;
+}
+
+.h90 {
+  height: 90vh;
+}
+
+.active{
+  color: hsl(54, 100%, 51%) !important;
+}
